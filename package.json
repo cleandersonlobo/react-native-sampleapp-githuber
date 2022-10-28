@@ -18,7 +18,7 @@
     "react-native": "0.51.0",
     "react-native-vector-icons": "^4.4.2",
     "react-navigation": "^1.0.0-beta.21",
-    "reactotron-react-native": "^1.12.3"
+    "reactotron-react-native": "^5.0.3"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.3",
